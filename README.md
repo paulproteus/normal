@@ -1,7 +1,7 @@
 normal
 ======
 
-You've used LESS and STYLUS and SASS and you're sick of 'em...
+You've used LESS and MORE and STYLUS and SASS and you're sick of 'em...
 
 ...that's where normal comes in!
 
